@@ -23,13 +23,13 @@ RSA repose sur des principes mathématiques solides en utilisant des **nombres p
 ### 🔐 **Formules utilisées dans RSA :**
 
 - **Chiffrement :**  
-  \( C = M^e \mod n \)
+  \( `C = M^e \mod n` \)
 - **Déchiffrement :**  
-  \( M = C^d \mod n \)
+  \( `M = C^d \mod n` \)
 - **Signature numérique :**  
-  \( S = H(M)^d \mod n \)
+  \( `S = H(M)^d \mod n` \)
 - **Vérification de la signature :**  
-  \( V = S^e \mod n \)
+  \( `V = S^e \mod n` \)
 
 ## 📥 Installation
 
