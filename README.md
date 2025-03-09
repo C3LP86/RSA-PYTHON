@@ -57,4 +57,6 @@ RSA repose sur des principes mathématiques solides en utilisant des **nombres p
 
 # ⚠️ Note
 
-Ce projet est éducatif. Pour des applications réelles, utilisez PyCryptodome ou OpenSSL.
+Ce projet est éducatif. Je précise tout de même que je suis débutant dans le domaine de la cryptographie, c'est ma première implémentation. Tous les avis seront acceptés avec grand plaisir.
+
+Pour des applications réelles, utilisez PyCryptodome ou OpenSSL.
